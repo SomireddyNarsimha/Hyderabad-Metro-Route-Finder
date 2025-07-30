@@ -29,8 +29,7 @@ A smart Java-based metro routing system to find the **shortest, cheapest, and mo
 |--------------|------------------|
 | Language     | Java             |
 | Logic        | Graph Theory, Dijkstra’s Algorithm |
-| Interface    | CLI or Web (Optional - Can be extended) |
-| Data Storage | In-memory station graph (CSV or JSON loadable) |
+
 
 ---
 
